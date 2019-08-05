@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicLayout_03</string>
+    <string name="btn_create">Add New View</string>
+</resources>

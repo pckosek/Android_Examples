@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViewPager_02</string>
+    <string name="tab_text_1">All</string>
+    <string name="tab_text_2">First</string>
+    <string name="tab_text_3">Last</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_users">
+        [
+            { name : "Dad", age : 105 },
+            { name : "Mom", age : 99 },
+            { name : "Phil", age : 23 },
+            { name : "Sue", age : 67 }
+        ]
+    </string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI_Example_02</string>
+    <string name="action_view_users">View Users</string>
+    <string name="name_label">Please Enter Your Name</string>
+    <string name="name_hint">Name</string>
+    <string name="age_label">Please Enter Your Age</string>
+    <string name="age_hint">Age</string>
+</resources>

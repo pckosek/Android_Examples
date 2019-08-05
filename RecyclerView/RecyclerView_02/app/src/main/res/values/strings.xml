@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecyclerView_02</string>
+    <string name="my_users">
+        [
+            { age : 13, name : \"Bob\" },
+            { age : 17, name : \"Sue\" },
+            { age : 99, name : \"Nana\" },
+            { age : 47, name : \"Frank\" },
+            { age : 70, name : \"Mary\" },
+            { age : 52, name : \"Melanie\" },
+            { age : 19, name : \"Chuck\" },
+            { age : 19, name : \"Charles\" },
+            { age : 21, name : \"Ben\" },
+            { age : 33, name : \"John\" },
+            { age : 41, name : \"Carl\" }
+        ]
+    </string>
+</resources>

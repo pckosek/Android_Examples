@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GSON In Fragment</string>
+    <string name="button_text">Next Entry</string>
+    <string name="all_users">
+        { user_list :
+            [
+                { age : 13, name : \"Bob\" },
+                { age : 17, name : \"Sue\" },
+                { age : 99, name : \"Nana\" },
+                { age : 47, name : \"Frank\" }
+            ]
+        }
+    </string>
+
+</resources>
